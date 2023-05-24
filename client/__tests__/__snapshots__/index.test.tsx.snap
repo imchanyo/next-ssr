@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home renders a heading 1`] = `
+<h1
+  class="title"
+>
+  Welcome to 
+  <a
+    href="https://nextjs.org"
+  >
+    Next.js!
+  </a>
+</h1>
+`;
